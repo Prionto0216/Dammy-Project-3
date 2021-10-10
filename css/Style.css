@@ -1,0 +1,240 @@
+/* nav */
+html
+{
+    scrollbar-width: normal;
+    scrollbar-color: #800000 white;
+}
+
+#navbar .navbar
+{
+    background: #f2f2f2;
+}
+#navbar .navbar button span:hover
+{   
+    color: #800000;
+}
+#navbar ul li a
+{
+    margin: 0 20px;
+    color: #800000;
+    font-weight: bold;
+}
+
+#navbar ul li a:hover
+{
+    color: #4d4dff;
+}
+
+#navbar ul li button
+{
+    margin-left: 20px;
+    border-radius: 0px;
+}
+#navbar ul li button:hover
+{
+    background: white;
+    color: #800000;
+}
+/* nav */
+
+
+/* banner */
+#banner h1
+{
+    color: #800000;
+}
+#banner .bg
+{
+    width: 100%;
+    background: url("../Multimedia/bg-1.jpg") no-repeat center;
+    background-size: cover;
+    padding: 250px 0;
+}
+
+#banner .order
+{
+    background: #800000;
+    color: white;
+    border-radius: 0px;
+}
+
+#banner .learn
+{
+
+    border: 1px solid black;
+    color: black;
+    border-radius: 0px;
+    box-shadow: 5px 5px 15px 0 black;
+}
+/* banner */
+
+
+/* about */
+#about img
+{
+    border-radius: 5px;
+}
+
+#about h3
+{
+    color:#800000;
+}
+
+#about button
+{
+    border-radius: 0;
+}
+
+#about button:hover
+{
+    background: white;
+    font-weight: bold;
+    color: #800000 !important;
+    border: 3px solid #800000;
+}
+
+/* about */
+
+/* about2 */
+#about2 h3
+{
+    color: #800000;
+}
+
+#about2 .check .iconify
+{
+    font-size: 25px;
+    color: #800000;
+}
+/* about2 */
+
+/* about3 */
+#about3
+{
+    width: 100%;
+    background: url("../Multimedia/bg-2.jpg") no-repeat center;
+    background-size: cover;
+    height: 20rem;
+       
+}
+#about3 h3
+{
+    color: #800000;
+}
+
+#about3 button
+{
+    border-radius: 0;
+}
+#about3 button:hover
+{
+    background: #ffb3b3;
+    color: #800000 !important;
+    border: none;
+}
+/* about3 */
+
+/* food-explore */
+#explore h3
+{
+    color: #800000;
+}
+
+/* food-explore */
+
+/* carosel */
+#carossel  
+{
+    background: #800000;
+} 
+
+#carossel img
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#faq h2
+{
+    color: #800000;
+}
+#faq h4
+{
+    color: #800000;
+}
+
+#faq p
+{
+    color: #808080;
+}
+
+/* carosel */
+
+/* parallelex */
+#palex
+{
+    background: url("../Multimedia/bg-3.jpg");
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;   
+}
+
+
+/* parallelex */
+
+/* newslater */
+
+#newslater h2{
+    color: #800000;
+}
+#newslater p
+{
+    color: #808080;
+}
+#newslater .form input
+{
+    border: 2px solid #808080;;
+    border-radius: 0;
+}
+#newslater .form button
+{
+    border-radius: 0;
+}
+
+#newslater .form button:hover
+{
+    background: white;
+    color: #800000;
+    border:none;
+    font-weight: bold;
+    
+}
+
+/* newslater */
+
+/* footer */
+#footer
+{
+    background: #800000;
+}
+#footer
+{
+    position:relative;
+}
+#footer .list1,
+#footer .list2
+{
+    /* float: right; */
+    list-style: none;
+}
+
+#footer .list1 li,
+#footer .list2 li
+{
+    display: inline-block;
+    padding: 5px;
+}
+
+
+/* footer */
